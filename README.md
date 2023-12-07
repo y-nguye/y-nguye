@@ -2,7 +2,6 @@
 🔭 I'm passionate about Full Stack Development.  
 🌱 Favorite Quote: "If what you're doing isn't difficult, you're going the wrong way"  
 ⚡ Fun fact: I once went into anaphylactic shock after being bitten by an ant.
-<img src="https://media.giphy.com/media/MiZHDIEMFaNzHRRGth/giphy.gif" width="200" />
 
 <!--
 **y-nguye/y-nguye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,5 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## GitHub Stats ✨
+## GitHub Stats ✨ <img src="https://media.giphy.com/media/MiZHDIEMFaNzHRRGth/giphy.gif" width="200" />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-nguye&layout=compact)
