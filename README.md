@@ -27,5 +27,7 @@ Here are some ideas to get you started:
 ## GitHub Stats ✨
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-nguye&layout=compact)
 
-## language
-<img alt="Sklearn"  src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+## Languages & Frameworks
+<p align="center">
+  <img alt="Sklearn"  src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=Laravel&logoColor=white" />
+</p>
