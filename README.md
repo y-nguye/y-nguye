@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 
 ## Languages & Frameworks
 <p align="center">
-  <img alt="Sklearn"  src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=Laravel&logoColor=white" />
+  <img alt="Sklearn"  src="https://img.shields.io/badge/laravel-%23F7931E.svg?style=for-the-badge&logo=Laravel&logoColor=white" />
 </p>
