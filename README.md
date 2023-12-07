@@ -1,4 +1,5 @@
 ## Hi there 👋
+<!--
 <div style="display: flex; justify-content: space-between;">
   <div>
     🔭 I'm passionate about Full Stack Development.  
@@ -9,6 +10,18 @@
     <img src="https://media.giphy.com/media/MiZHDIEMFaNzHRRGth/giphy.gif" width="200" style="display: block; float: right;"/>
   </div>
 </div>
+-->
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1;">
+    🔭 I'm passionate about Full Stack Development.  
+    🌱 Favorite Quote: "If what you're doing isn't difficult, you're going the wrong way"  
+    ⚡ Fun fact: I once went into anaphylactic shock after being bitten by an ant.
+  </div>
+  <div style="flex: 1;">
+    <img src="https://media.giphy.com/media/MiZHDIEMFaNzHRRGth/giphy.gif" width="200" style="display: block; margin-left: auto;"/>
+  </div>
+</div>
+
 
 <!--
 **y-nguye/y-nguye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
