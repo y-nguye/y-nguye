@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 -->
 
 ## GitHub Stats ✨
+<p width="100%">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-nguye&layout=compact)
 <img src="https://media.giphy.com/media/MiZHDIEMFaNzHRRGth/giphy.gif" width="200" style="float: right;"/>
+</p>p>
