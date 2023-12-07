@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 
 ## GitHub Stats ✨
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-nguye&layout=compact)
+![Alt Text](https://media.giphy.com/media/MiZHDIEMFaNzHRRGth/giphy.gif)
