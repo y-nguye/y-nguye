@@ -29,8 +29,14 @@ Here are some ideas to get you started:
 
 ## Languages & Frameworks
 <p align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/javascript-f7db3c?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="Static Badge" src="https://img.shields.io/badge/php-6c6db2?style=for-the-badge&logo=php&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2Fjavascript">
+  <img alt="Static Badge" src="https://img.shields.io/badge/php-%23777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/c%2Fc%2B%2B-03589b?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</p>
+
+## Tools & Platforms
+<p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/raspberry%20pi-%23A22846?style=for-the-badge&logo=raspberrypi">
+
 </p>
