@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ✨ GitHub Stats
+## GitHub Stats ✨
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-nguye&layout=compact)
