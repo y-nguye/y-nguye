@@ -43,6 +43,7 @@ Here are some ideas to get you started:
   <img alt="Static Badge" src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/espressif-%23E7352C?style=for-the-badge&logo=espressif&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/raspberry%20pi-%23A22846?style=for-the-badge&logo=raspberrypi">
+  <br/>
   <img alt="Static Badge" src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/obsidian-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=white">
 
