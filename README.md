@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 ---
 🔭 I'm passionate about Full Stack Development.  
 🌱 Favorite Quote: "If what you're doing isn't difficult, you're going the wrong way"  
@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### ✨ GitHub Stats
+## ✨ GitHub Stats
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-nguye&layout=compact)
