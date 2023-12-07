@@ -1,4 +1,8 @@
 ### Hi there 👋
+---
+🔭 I'm passionate about Full Stack Development.
+🌱 Favorite Quote: If what you're doing isn't difficult, you're going the wrong way.
+⚡ Fun fact: I have experienced a anaphylactic shock due to an ant bite.
 
 <!--
 **y-nguye/y-nguye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
