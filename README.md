@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## GitHub Stats ✨
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-nguye&layout=compact)
 
-## Languages & Frameworks 🧩
+## Languages & Frameworks
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img alt="Static Badge" src="https://img.shields.io/badge/php-%23777BB4?style=for-the-badge&logo=php&logoColor=white">
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <img alt="Static Badge" src="https://img.shields.io/badge/c%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </p>
 
-## Tools & Platforms 🪄
+## Tools & Platforms
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white">
