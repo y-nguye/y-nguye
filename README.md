@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 
 ## Languages & Frameworks
 <p align="center">
-  ![Static Badge](https://img.shields.io/badge/Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white)
+  <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white">
 </p>
