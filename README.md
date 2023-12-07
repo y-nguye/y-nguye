@@ -1,5 +1,5 @@
 ## Hi there 👋
-<span>
+<div>
   <div>
     🔭 I'm passionate about Full Stack Development.  
     🌱 Favorite Quote: "If what you're doing isn't difficult, you're going the wrong way"  
@@ -8,7 +8,7 @@
   <div>
     <img src="https://media.giphy.com/media/MiZHDIEMFaNzHRRGth/giphy.gif" width="200" style="display: block; float: right;"/>
   </div>
-</span>
+</div>
 
 <!--
 **y-nguye/y-nguye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
