@@ -41,7 +41,6 @@ Here are some ideas to get you started:
   <img alt="Static Badge" src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/espressif-%23E7352C?style=for-the-badge&logo=espressif&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/raspberry%20pi-%23A22846?style=for-the-badge&logo=raspberrypi">
   <br/>
   <img alt="Static Badge" src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
