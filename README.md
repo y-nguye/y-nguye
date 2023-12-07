@@ -1,5 +1,4 @@
 ## Hi there 👋
----
 🔭 I'm passionate about Full Stack Development.  
 🌱 Favorite Quote: "If what you're doing isn't difficult, you're going the wrong way"  
 ⚡ Fun fact: I once went into anaphylactic shock after being bitten by an ant.  
@@ -20,5 +19,4 @@ Here are some ideas to get you started:
 -->
 
 ## ✨ GitHub Stats
----
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-nguye&layout=compact)
