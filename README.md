@@ -1,5 +1,5 @@
 ## Hi there 👋
-<div>
+<div style="display: flex;">
   <div>
     🔭 I'm passionate about Full Stack Development.  
     🌱 Favorite Quote: "If what you're doing isn't difficult, you're going the wrong way"  
