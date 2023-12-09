@@ -1,6 +1,6 @@
 ## Hi there 👋
 🔭 I'm passionate about Full Stack Development.  
-🌱 Favorite Quote: "If what you're doing isn't difficult, you're going the wrong way"  
+🌱 Favorite Quote: "If the path to what you want seems too easy, then you're on the wrong path"  
 ⚡ Fun fact: I once went into anaphylactic shock after being bitten by an ant.  
 
 <!--
