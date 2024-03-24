@@ -1,5 +1,5 @@
 ## Hi there 👋
-🔭 I'm passionate about Programming and Electronics.
+🔭 I'm passionate about Programming and Electronics.  
 🌱 Favorite Quote: "If the path to what you want seems too easy, then you're on the wrong path"  
 ⚡ Fun fact: I once went into anaphylactic shock after being bitten by an ant.  
 
